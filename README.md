@@ -5,3 +5,4 @@
 # mini
 # alpha
 # alpha
+# minipro
