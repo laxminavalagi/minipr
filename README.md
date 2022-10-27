@@ -6,3 +6,4 @@
 # alpha
 # alpha
 # minipro
+# minipr
